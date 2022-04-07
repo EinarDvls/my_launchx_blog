@@ -9,13 +9,14 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+> Tengo 29 años, vivo en Guadalajara, Jalisco
+> Trabajo en una de las rutas de transporte publico mas extensa de la ciudad
+> Me gusta mucho la musica rap 
+> Me gusta salir con mi novia a conocer la ciudad 
+> Me gusta mucho la programación pero apenas estoy aprendiendo de ello por motivos un poco mas personales
+> Soy una persona transgenero y me gustaria hacer que mas personas como yo puedan incursionar en diferentes ambitos laborales
+> Trato de compartir mis conocimientos a las demas personas, no me gusta quedarme las cosas para mi solo
+> Tengo TDHA y si es un poquito complicado para mi el hecho de poder concentrarme en algo por mucho tiempo 
+> Tengo dos perritos y me gustan mucho los animales 
+> Tengo dos hermanos menores, uno de ellos es maestra y el otro esta estudiando 
 
