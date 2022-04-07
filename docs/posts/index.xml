@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://einardvls.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://einardvls.github.io/my_launchx_blog/posts/intro_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://einardvls.github.io/my_launchx_blog/posts/intro_1/</guid>
+      <description>Hola!
+El dia de hoy quiero compartirles todo lo que he aprendido a lo largo de esta travesia tan divertida llamada Innovaccion Virtual:
+-Python -Un poco de Visual Studio Code -HTML (que esa me gusta un monton) -CSS (el hecho de crear estilos es muy divertido) -JavaScript (JS es algo que en verdad me esta costando mucho trabajo pero la verdad no me dare por vencido y estoy buscando mas informacion sobre el)</description>
+    </item>
+    
+    <item>
       <title>La cultura de un Desarrollador de Software</title>
       <link>https://einardvls.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
