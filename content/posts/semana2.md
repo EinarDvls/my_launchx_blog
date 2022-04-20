@@ -17,3 +17,8 @@ En esta semana logre familizarizarme mas con el control de versiones de GIT y co
 3. Un objeto con propiedades diferentes
 4. Un objeto con metodos
 5. Un objeto que reciba parametros 
+
+-Tambien vimos los operadores
+-Clases y Objetos 
+-Modularizacion de clases 
+
